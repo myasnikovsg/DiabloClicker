@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0"/>
+	<classpathentry kind="lib" path="C:/Users/Hedin/workspace/Clicker/client/commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hedin/workspace/Clicker/client/hornetq-core-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hedin/workspace/Clicker/client/hornetq-jms-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hedin/workspace/Clicker/client/jboss-jms-api_1.1_spec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hedin/workspace/Clicker/client/jboss-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hedin/workspace/Clicker/client/jnp-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hedin/workspace/Clicker/client/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hedin/workspace/Clicker/client/netty.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hedin/Downloads/javaee-api-6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hedin/Downloads/hornetq-transports-2.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hedin/Downloads/hornetq-logging-2.0.0.GA.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
